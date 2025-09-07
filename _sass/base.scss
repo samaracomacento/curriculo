@@ -160,7 +160,14 @@ body {
   @media print {
     margin-top: 20px;
   }
+
+
+  @media (min-width: 1200px) {
+    max-width: 970px;
+  }
 }
+
+
 
 .header-container {
   margin-top:50px;
@@ -196,7 +203,7 @@ body {
     float: left;
   }
   .col-sm-12 {
-    width: 80%;
+    width: 100%;
   }
   .col-sm-11 {
     width: 91.66666667%;
