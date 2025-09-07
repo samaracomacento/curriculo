@@ -85,14 +85,21 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
+        title: SAMN - Associação Amigos do Museu Nacional
+        sub_title: Consultora em Arquitetura
+        caption: 2018 - atual
+        description: | # this will include new lines to allow paragraphs
+          Projeto de arquitetura, projeto executivo, As Built, paisagismo, acompanhamento de obras, licenciamento, termo de referência
+          Arquitetura institucional, arquitetura efêmera, laboratórios, patrimônio histórico  
+      - layout: right
+        title: DiGiacomo Engenheiros Associados
+        sub_title: Estagiágio em Edificações
         caption: Date Range (eg. November 2016 - present)
         link: Link to company (optional)
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Desenho de habitações unifamiliares, As Built, projetos complementares
   - title: Formação
     layout: list
     content:
