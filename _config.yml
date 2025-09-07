@@ -123,6 +123,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Laboratório de Coleções Líquidas
+        caption: 2020 - Atual
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #link_text: Link Text
         #additional_links:
@@ -135,13 +136,27 @@ content:
         quote: >
           Laboratório de Manuseio de Coleções em Meio Líquido - Campus de Pesquisa e Ensino do Museu Nacional/UFRJ. O laboratório de manuseio de Coleções em meio líquido tem o objetivo de manter seguras as Coleções de espécimes conservados em álcool.
         description: | # this will include new lines to allow paragraphs
-          Projeto de arquitetura e acompanhamento de obra.
+          Projeto de arquitetura, acompanhamento de obra e licenciamento
       - layout: left
         title: Laboratório de Taxidermia
+        caption: 2022 - 2025
         quote: >
           Laboratório de Taxidermia - Campus de Pesquisa e Ensino do Museu Nacional/UFRJ. O prédio laboratório de taxidermia foi projetado para dar um espaço de apoio para montagem e manuseio de espécimes.
         description: | # this will include new lines to allow paragraphs
-          Projeto de arquitetura e acompanhamento de obra.
+          Projeto de arquitetura, acompanhamento de obra e licenciamento
+      - layout: left
+        title: Laboratório de Coleções Secas
+        quote: >
+          Laboratório de Manuseio de Coleções Secas - Campus de Pesquisa e Ensino do Museu Nacional/UFRJ. O prédio laboratório de manuseio de coleções secas tem o objetivo de manter seguras as Coleções secas do Museu Nacional/UFRJ junto a uma infraestrutura de preparação e curadoria.
+        description: | # this will include new lines to allow paragraphs
+          Projeto de arquitetura.
+      - layout: left
+        title: Módulos Administrativos
+        caption: 2018 - 2020
+        quote: >
+          Módulos Administrativos Emergenciais - Campus de Pesquisa e Ensino do Museu Nacional/UFRJ. O prédio de módulos administrativos tem objetivo de atender uma demanda de espaços por diversos setores que encontraram-se sem locação fixa após o incêndio de 2018. O projeto foi pensado para ter uma construção mais rápida e  garantir conforto ambiental e um ambiente agradável para os usuários. 
+        description: | # this will include new lines to allow paragraphs
+          Projeto de arquitetura e licenciamento.
   #- title: A Little More About Me
   #  layout: text
   #  content: | # this will include new lines to allow paragraphs
