@@ -61,26 +61,6 @@ about_content: | # this will include new lines to allow paragraphs
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
   - title: Experiência
     layout: list
     content:
@@ -91,8 +71,7 @@ content:
         sub_title: Consultora em Arquitetura
         caption: 2018 - atual
         description: | # this will include new lines to allow paragraphs
-          Projeto de arquitetura, projeto executivo, As Built, paisagismo, acompanhamento de obras, licenciamento, termo de referência
-          Arquitetura institucional, arquitetura efêmera, laboratórios, patrimônio histórico
+          Projeto de arquitetura, projeto executivo, As Built, paisagismo, acompanhamento de obras, licenciamento, termo de referência. Arquitetura institucional, arquitetura efêmera, laboratórios, patrimônio histórico.
       - layout: right
         title: ETU/UFRJ
         quote: >
@@ -100,9 +79,7 @@ content:
         sub_title: Estágio em Arquitetura
         caption: 2016 - 2018
         description: | # this will include new lines to allow paragraphs
-          Levantamento e mapeamento de danos em edifícios do patrimônio histórico da UFRJ
-          Colaboração no levantamento e mapeamento do Jardim das Princesas, salas históricas e expansão das exposições - Museu Nacional/UFRJ
-          Colaboração no mapeamento do IFCS/UFRJ
+          Levantamento e mapeamento de danos em edifícios do patrimônio histórico da UFRJ. Colaboração no levantamento e mapeamento do Jardim das Princesas, salas históricas e expansão das exposições - Museu Nacional/UFRJ. Colaboração no mapeamento do IFCS/UFRJ.
       - layout: right
         title: DiGiacomo
         quote: >
@@ -110,7 +87,7 @@ content:
         sub_title: Estágio em Edificações
         caption: 2009 - 2010
         description: | # this will include new lines to allow paragraphs
-          Desenho de habitações unifamiliares, As Built, projetos complementares
+          Desenho de habitações unifamiliares, As Built, projetos complementares.
   - title: Formação
     layout: list
     content:
@@ -139,6 +116,26 @@ content:
         caption: 2007 - 2009
         description: | # this will include new lines to allow paragraphs
           Casa eco-adaptada popular
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Project name
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Link Text
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
