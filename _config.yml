@@ -138,6 +138,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Projeto de arquitetura, acompanhamento de obra e licenciamento.
       - layout: left
+        border: weak
         title: Laboratório de Taxidermia
         caption: 2022 - 2025
         quote: >
@@ -145,6 +146,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Projeto de arquitetura, acompanhamento de obra e licenciamento.
       - layout: left
+        border: weak
         title: Casa de Vegetação
         caption: 2024 - Atual
         quote: >
@@ -159,6 +161,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Projeto de arquitetura.
       - layout: left
+        border: weak
         title: Módulos Laboratoriais
         caption: 2019
         quote: >
@@ -166,6 +169,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Anteprojeto de arquitetura.
       - layout: left
+        border: weak
         title: Módulos Administrativos
         caption: 2018 - 2020
         quote: >
