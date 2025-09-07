@@ -156,7 +156,7 @@ content:
         title: Casa de Vegetação
         caption: 2024 - Atual
         quote: >
-          Espaço para produção de mudas e experimentos botânicos.
+          Espaço para produção de mudas e experimentos botânicos - Horto Botânico do Museu Nacional/UFRJ.
         description: | # this will include new lines to allow paragraphs
           Projeto de reforma e acompanhamento de obra.
       - layout: left
@@ -168,18 +168,26 @@ content:
         description: | # this will include new lines to allow paragraphs
           Projeto de arquitetura.
       - layout: left
+        title: Teatro do Colégio Pedro II Niterói
+        border: weak
+        caption: 2021
+        quote: >
+          Colaboração na reforma do Teatro do Colégio Pedro II - Campus Niterói
+        description: | # this will include new lines to allow paragraphs
+          Documentação de Projeto Executivo.
+      - layout: left
         border: weak
         title: Módulos Laboratoriais
         caption: 2019
         quote: >
-           Prédio de Módulos emergencial para laboratórios de pesquisa - Campus de Pesquisa e Ensino do Museu Nacional/UFRJ. O prédio de módulos laboratoriais tem objetivo de atender uma demanda de laboratórios de diversos departamentos que encontraram-se sem locação fixa após o incêndio de 2018. O projeto foi pensado para ter uma construção mais rápida e garantir conforto ambiental e um ambiente agradável para os usuários. 
+           Prédio de Módulos emergencial para laboratórios de pesquisa - Campus de Pesquisa e Ensino do Museu Nacional/UFRJ. O prédio de módulos laboratoriais tem objetivo de atender uma demanda de laboratórios de diversos departamentos que encontraram-se sem locação fixa após o incêndio de 2018.
         description: | # this will include new lines to allow paragraphs
           Anteprojeto de arquitetura.
       - layout: left
         title: Módulos Administrativos
         caption: 2018 - 2020
         quote: >
-          Prédio de Módulos emergencial para Administração do Campus de Pesquisa e Ensino do Museu Nacional/UFRJ. O prédio de módulos administrativos tem objetivo de atender uma demanda de espaços por diversos setores que encontraram-se sem locação fixa após o incêndio de 2018. O projeto foi pensado para ter uma construção mais rápida e  garantir conforto ambiental e um ambiente agradável para os usuários. 
+          Prédio de Módulos emergencial para Administração do Campus de Pesquisa e Ensino do Museu Nacional/UFRJ. O prédio de módulos administrativos tem objetivo de atender uma demanda de espaços por diversos setores que encontraram-se sem locação fixa após o incêndio de 2018. O projeto foi pensado para ter uma construção mais rápida e garantir conforto ambiental e um ambiente agradável para os usuários. 
         description: | # this will include new lines to allow paragraphs
           Projeto de arquitetura e licenciamento.
   #- title: A Little More About Me
