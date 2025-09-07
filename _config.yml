@@ -90,12 +90,22 @@ content:
         caption: 2018 - atual
         description: | # this will include new lines to allow paragraphs
           Projeto de arquitetura, projeto executivo, As Built, paisagismo, acompanhamento de obras, licenciamento, termo de referência
-          Arquitetura institucional, arquitetura efêmera, laboratórios, patrimônio histórico  
+          Arquitetura institucional, arquitetura efêmera, laboratórios, patrimônio histórico
+      - layout: right
+        title: ETU/UFRJ
+        quote: >
+          Divisão de Imóveis Tombados do Escritório Técnico da Universidade
+        sub_title: Estágio em Arquitetura
+        caption: 2016 - 2018
+        description: | # this will include new lines to allow paragraphs
+          Levantamento e mapeamento de danos em edifícios do patrimônio histórico da UFRJ
+          Colaboração no levantamento e mapeamento do Jardim das Princesas, salas históricas e expansão das exposições - Museu Nacional/UFRJ
+          Colaboração no mapeamento do IFCS/UFRJ
       - layout: right
         title: DiGiacomo Engenheiros Associados
-        sub_title: Estagiágio em Edificações
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        sub_title: Estágio em Edificações
+        caption: 2009 - 2010
+        #link: Link to company (optional)
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
