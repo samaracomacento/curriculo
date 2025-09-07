@@ -64,31 +64,31 @@ content:
   - title: Formação
     layout: list
     content:
-      - layout: right
+      - layout: top-right
         title: Arquitetura e Urbanismo
         sub_title: Universidade Federal do Rio de Janeiro
         caption: 2011 - 2018
         description: | # this will include new lines to allow paragraphs
           Escola de Permacultura: Arquitetura como um organismo vivo e de memória
-          Restauração e Reabilitação de uma ruína na Rua do Teatro - Centro RJ
-      - layout: right
+          Restauração e Reabilitação de uma ruína na Rua do Teatro - Centro RJ.
+      - layout: top-right
         title: Aperfeiçoamento em Materiais e Técnicas de Construção Sustentáveis e Populares
         sub_title: Universidade do Estado do Rio de Janeiro - NATEP
         caption: 2021
         description: | # this will include new lines to allow paragraphs
-          Projeto Biblioteca Comunitária em Tanguá/RJ
-      - layout: right
+          Projeto Biblioteca Comunitária em Tanguá/RJ.
+      - layout: top-right
         title: Certificação de Design em Permacultura (PDC)
         sub_title: UniPermacultura
         caption: 2018
         #quote: >
         #  Short institution or course description (optional)
-      - layout: right
+      - layout: top-right
         title: Técnico em Edificações
         sub_title: FAETEC/RJ
         caption: 2007 - 2009
         description: | # this will include new lines to allow paragraphs
-          Casa eco-adaptada popular
+          Casa eco-adaptada popular.
   - title: Experiência
     layout: list
     content:
@@ -136,14 +136,21 @@ content:
         quote: >
           Laboratório de Manuseio de Coleções em Meio Líquido - Campus de Pesquisa e Ensino do Museu Nacional/UFRJ. O laboratório de manuseio de Coleções em meio líquido tem o objetivo de manter seguras as Coleções de espécimes conservados em álcool.
         description: | # this will include new lines to allow paragraphs
-          Projeto de arquitetura, acompanhamento de obra e licenciamento
+          Projeto de arquitetura, acompanhamento de obra e licenciamento.
       - layout: left
         title: Laboratório de Taxidermia
         caption: 2022 - 2025
         quote: >
           Laboratório de Taxidermia - Campus de Pesquisa e Ensino do Museu Nacional/UFRJ. O prédio laboratório de taxidermia foi projetado para dar um espaço de apoio para montagem e manuseio de espécimes.
         description: | # this will include new lines to allow paragraphs
-          Projeto de arquitetura, acompanhamento de obra e licenciamento
+          Projeto de arquitetura, acompanhamento de obra e licenciamento.
+      - layout: left
+        title: Casa de Vegetação
+        caption: 2024 - Atual
+        quote: >
+          Espaço para produção de mudas e experimentos botânicos.
+        description: | # this will include new lines to allow paragraphs
+          Projeto de reforma e acompanhamento de obra.
       - layout: left
         title: Laboratório de Coleções Secas
         caption: 2022
