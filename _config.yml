@@ -100,8 +100,6 @@ content:
         title: Universidade Federal do Rio de Janeiro
         sub_title: Arquitetura e Urbanismo
         caption: 2011 - 2018
-        #quote: >
-        #  Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Escola de Permacultura: Arquitetura como um organismo vivo e de memória
           Restauração e Reabilitação de uma ruína na Rua do Teatro - Centro RJ
@@ -109,10 +107,14 @@ content:
         title: Universidade do Estado do Rio de Janeiro
         sub_title: Aperfeiçoamento em Materiais e Técnicas de Construção Sustentáveis e Populares - NATEP
         caption: 2021
-        #quote: >
-        #  Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Projeto Biblioteca Comunitário em Tanguá/RJ
+      - layout: top-right
+        title: UniPermacultura
+        sub_title: Certificação de Design em Permacultura (PDC)
+        caption: 2028
+        #quote: >
+        #  Short institution or course description (optional)
       - layout: top-right
         title: FAETEC/RJ
         sub_title: Técnico em Edificações
