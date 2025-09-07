@@ -105,6 +105,10 @@ content:
         description: | # this will include new lines to allow paragraphs
           Escola de Permacultura: Arquitetura como um organismo vivo e de memória
           Restauração e Reabilitação de uma ruína na Rua do Teatro - Centro RJ
+      - layout: top-right
+        title: FAETEC/RJ
+        sub_title: Técnico em Edificações
+        caption: 2007 - 2009
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
