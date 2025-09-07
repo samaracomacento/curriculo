@@ -65,6 +65,7 @@ content:
     layout: list
     content:
       - layout: top-right
+        border: weak
         title: Arquitetura e Urbanismo
         sub_title: Universidade Federal do Rio de Janeiro
         caption: 2011 - 2018
@@ -72,18 +73,21 @@ content:
           Escola de Permacultura: Arquitetura como um organismo vivo e de memória
           Restauração e Reabilitação de uma ruína na Rua do Teatro - Centro RJ.
       - layout: top-right
+        border: weak
         title: Aperfeiçoamento em Materiais e Técnicas de Construção Sustentáveis e Populares
         sub_title: Universidade do Estado do Rio de Janeiro - NATEP
         caption: 2021
         description: | # this will include new lines to allow paragraphs
           Projeto Biblioteca Comunitária em Tanguá/RJ.
       - layout: top-right
+        border: weak
         title: Certificação de Design em Permacultura (PDC)
         sub_title: UniPermacultura
         caption: 2018
         #quote: >
         #  Short institution or course description (optional)
       - layout: top-right
+        border: weak
         title: Técnico em Edificações
         sub_title: FAETEC/RJ
         caption: 2007 - 2009
@@ -93,6 +97,7 @@ content:
     layout: list
     content:
       - layout: right
+        border: weak
         title: SAMN
         quote: >
           Associação Amigos do Museu Nacional da UFRJ
@@ -101,6 +106,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           Projeto de arquitetura, projeto executivo, As Built, paisagismo, acompanhamento de obras, licenciamento, termo de referência. Arquitetura institucional, arquitetura efêmera, laboratórios, patrimônio histórico.
       - layout: right
+        border: weak
+        border: weak
         title: ETU/UFRJ
         quote: >
           Divisão de Imóveis Tombados do Escritório Técnico da Universidade
@@ -109,6 +116,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Levantamento e mapeamento de danos em edifícios do patrimônio histórico da UFRJ. Colaboração no levantamento e mapeamento do Jardim das Princesas, salas históricas e expansão das exposições - Museu Nacional/UFRJ. Colaboração no mapeamento do IFCS/UFRJ.
       - layout: right
+        border: weak
         title: DiGiacomo
         quote: >
           DiGiacomo Engenheiros Associados
