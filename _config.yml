@@ -81,7 +81,7 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: Experience
+  - title: Experiência
     layout: list
     content:
       - layout: right
@@ -93,7 +93,7 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
-  - title: Education
+  - title: Formação
     layout: list
     content:
       - layout: top-right
@@ -106,9 +106,19 @@ content:
           Escola de Permacultura: Arquitetura como um organismo vivo e de memória
           Restauração e Reabilitação de uma ruína na Rua do Teatro - Centro RJ
       - layout: top-right
+        title: Universidade do Estado do Rio de Janeiro
+        sub_title: Aperfeiçoamento em Materiais e Técnicas de Construção Sustentáveis e Populares - NATEP
+        caption: 2021
+        #quote: >
+        #  Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Projeto Biblioteca Comunitário em Tanguá/RJ
+      - layout: top-right
         title: FAETEC/RJ
         sub_title: Técnico em Edificações
         caption: 2007 - 2009
+        description: | # this will include new lines to allow paragraphs
+          Casa eco-adaptada popular
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
