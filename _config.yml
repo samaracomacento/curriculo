@@ -146,10 +146,18 @@ content:
           Projeto de arquitetura, acompanhamento de obra e licenciamento
       - layout: left
         title: Laboratório de Coleções Secas
+        caption: 2022
         quote: >
           Laboratório de Manuseio de Coleções Secas - Campus de Pesquisa e Ensino do Museu Nacional/UFRJ. O prédio laboratório de manuseio de coleções secas tem o objetivo de manter seguras as Coleções secas do Museu Nacional/UFRJ junto a uma infraestrutura de preparação e curadoria.
         description: | # this will include new lines to allow paragraphs
           Projeto de arquitetura.
+      - layout: left
+        title: Módulos Laboratoriais
+        caption: 2019
+        quote: >
+          Módulos Laboratoriais Emergenciais - Campus de Pesquisa e Ensino do Museu Nacional/UFRJ. O prédio de módulos laboratoriais tem objetivo de atender uma demanda de laboratórios de diversos departamentos que encontraram-se sem locação fixa após o incêndio de 2018. O projeto foi pensado para ter uma construção mais rápida e garantir conforto ambiental e um ambiente agradável para os usuários. 
+        description: | # this will include new lines to allow paragraphs
+          Anteprojeto de arquitetura.
       - layout: left
         title: Módulos Administrativos
         caption: 2018 - 2020
