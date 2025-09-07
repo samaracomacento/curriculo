@@ -14,8 +14,6 @@
 }
 
 @media screen and (max-width: 767px) {
-  .header-container div{
-    text-align: center;
 
     h1 {
       font-size: 3rem;
@@ -24,6 +22,8 @@
     h2 {
       font-size: 1.5rem;
     }
+  .header-container div{
+    text-align: center;
   }
 
   .header-right p {
@@ -114,7 +114,7 @@
     h5 {
       margin-bottom: 0.1rem;
       font-weight: 500;
-      font-size: 1rem;
+      font-size: 1.4rem;
 
       @media print {
         margin-bottom: 0.2rem;
