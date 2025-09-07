@@ -104,12 +104,11 @@ content:
           Colaboração no levantamento e mapeamento do Jardim das Princesas, salas históricas e expansão das exposições - Museu Nacional/UFRJ
           Colaboração no mapeamento do IFCS/UFRJ
       - layout: right
-        title: DiGiacomo Engenheiros Associados
+        title: DiGiacomo
+        quote: >
+          DiGiacomo Engenheiros Associados
         sub_title: Estágio em Edificações
         caption: 2009 - 2010
-        #link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Desenho de habitações unifamiliares, As Built, projetos complementares
   - title: Formação
