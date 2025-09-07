@@ -54,40 +54,13 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+ # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+ #   - Lists
+ #   - Tables
+ #   - <a href="google.com">Links</a>
+ #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: Experiência
-    layout: list
-    content:
-      - layout: right
-        title: SAMN
-        quote: >
-          Associação Amigos do Museu Nacional da UFRJ
-        sub_title: Consultora em Arquitetura
-        caption: 2018 - atual
-        description: | # this will include new lines to allow paragraphs
-          Projeto de arquitetura, projeto executivo, As Built, paisagismo, acompanhamento de obras, licenciamento, termo de referência. Arquitetura institucional, arquitetura efêmera, laboratórios, patrimônio histórico.
-      - layout: right
-        title: ETU/UFRJ
-        quote: >
-          Divisão de Imóveis Tombados do Escritório Técnico da Universidade
-        sub_title: Estágio em Arquitetura
-        caption: 2016 - 2018
-        description: | # this will include new lines to allow paragraphs
-          Levantamento e mapeamento de danos em edifícios do patrimônio histórico da UFRJ. Colaboração no levantamento e mapeamento do Jardim das Princesas, salas históricas e expansão das exposições - Museu Nacional/UFRJ. Colaboração no mapeamento do IFCS/UFRJ.
-      - layout: right
-        title: DiGiacomo
-        quote: >
-          DiGiacomo Engenheiros Associados
-        sub_title: Estágio em Edificações
-        caption: 2009 - 2010
-        description: | # this will include new lines to allow paragraphs
-          Desenho de habitações unifamiliares, As Built, projetos complementares.
   - title: Formação
     layout: list
     content:
@@ -116,32 +89,59 @@ content:
         caption: 2007 - 2009
         description: | # this will include new lines to allow paragraphs
           Casa eco-adaptada popular
-  - title: Projects # Title for the section
+  - title: Experiência
+    layout: list
+    content:
+      - layout: right
+        title: SAMN
+        quote: >
+          Associação Amigos do Museu Nacional da UFRJ
+        sub_title: Consultora em Arquitetura
+        caption: 2018 - atual
+        description: | # this will include new lines to allow paragraphs
+          Projeto de arquitetura, projeto executivo, As Built, paisagismo, acompanhamento de obras, licenciamento, termo de referência. Arquitetura institucional, arquitetura efêmera, laboratórios, patrimônio histórico.
+      - layout: right
+        title: ETU/UFRJ
+        quote: >
+          Divisão de Imóveis Tombados do Escritório Técnico da Universidade
+        sub_title: Estágio em Arquitetura
+        caption: 2016 - 2018
+        description: | # this will include new lines to allow paragraphs
+          Levantamento e mapeamento de danos em edifícios do patrimônio histórico da UFRJ. Colaboração no levantamento e mapeamento do Jardim das Princesas, salas históricas e expansão das exposições - Museu Nacional/UFRJ. Colaboração no mapeamento do IFCS/UFRJ.
+      - layout: right
+        title: DiGiacomo
+        quote: >
+          DiGiacomo Engenheiros Associados
+        sub_title: Estágio em Edificações
+        caption: 2009 - 2010
+        description: | # this will include new lines to allow paragraphs
+          Desenho de habitações unifamiliares, As Built, projetos complementares.
+  - title: Projetos # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        title: Laboratório de Taxidermia
+        #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #link_text: Link Text
+        #additional_links:
+        #  - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #    icon: fab fa-github
+        #    url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #  - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #    icon: fab fa-github
+        #    url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          Laboratório de Taxidermia - Campus de Pesquisa e Ensino do Museu Nacional/UFRJ
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+          Projeto de arquitetura e acompanhamento de obra.
+  #- title: A Little More About Me
+  #  layout: text
+  #  content: | # this will include new lines to allow paragraphs
+  #    This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  #    Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
