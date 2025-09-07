@@ -122,7 +122,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Laboratório de Taxidermia
+        title: Laboratório de Coleções Líquidas
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #link_text: Link Text
         #additional_links:
@@ -133,7 +133,13 @@ content:
         #    icon: fab fa-github
         #    url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Laboratório de Taxidermia - Campus de Pesquisa e Ensino do Museu Nacional/UFRJ
+          Laboratório de Manuseio de Coleções em Meio Líquido - Campus de Pesquisa e Ensino do Museu Nacional/UFRJ. O laboratório de manuseio de Coleções em meio líquido tem o objetivo de manter seguras as Coleções de espécimes conservados em álcool.
+        description: | # this will include new lines to allow paragraphs
+          Projeto de arquitetura e acompanhamento de obra.
+      - layout: left
+        title: Laboratório de Taxidermia
+        quote: >
+          Laboratório de Taxidermia - Campus de Pesquisa e Ensino do Museu Nacional/UFRJ. O prédio laboratório de taxidermia foi projetado para dar um espaço de apoio para montagem e manuseio de espécimes.
         description: | # this will include new lines to allow paragraphs
           Projeto de arquitetura e acompanhamento de obra.
   #- title: A Little More About Me
