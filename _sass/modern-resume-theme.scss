@@ -13,15 +13,16 @@
   font-weight:500;
 }
 
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
 @media screen and (max-width: 767px) {
 
-    h1 {
-      font-size: 3rem;
-    }
-
-    h2 {
-      font-size: 1.5rem;
-    }
   .header-container div{
     text-align: center;
   }
