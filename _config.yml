@@ -85,7 +85,9 @@ content:
     layout: list
     content:
       - layout: right
-        title: SAMN - Associação Amigos do Museu Nacional
+        title: SAMN
+        quote: >
+          Associação Amigos do Museu Nacional da UFRJ
         sub_title: Consultora em Arquitetura
         caption: 2018 - atual
         description: | # this will include new lines to allow paragraphs
