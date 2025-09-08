@@ -52,7 +52,7 @@ darkmode: false
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Arquiteta e Urbanista pela FAU/UFRJ, com 7 anos de experiência na elaboração e análise de projetos de arquitetura, licenciamento, acompanhamento de obras e elaboração termos de referência de caráter institucional. Atualmente colaboro em projetos para arquitetura de laboratórios de pesquisa, armazenamento de coleções cientificas, paisagismo e patrimônio histórico para o Museu Nacional/UFRJ.
+  Arquiteta e Urbanista pela FAU/UFRJ, com 7 anos de experiência na elaboração e análise de projetos de arquitetura, licenciamento, acompanhamento de obras e elaboração termos de referência de caráter institucional. Atualmente colaboro em projetos de arquitetura para laboratórios de pesquisa, armazenamento de coleções cientificas, paisagismo e patrimônio histórico para o Museu Nacional/UFRJ.
 
  # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
  #   - Lists
